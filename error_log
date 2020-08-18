@@ -1,0 +1,14 @@
+[25-Aug-2019 05:48:32 Asia/Dhaka] PHP Fatal error:  Cannot redeclare nfa() (previously declared in /home/rrkhighschool/public_html/application/helpers/category_helper.php:16) in /home/rrkhighschool/public_html/application/views/admin/16_show_only_student_info.php on line 2
+[27-Oct-2019 18:05:30 Asia/Dhaka] PHP Fatal error:  Cannot redeclare nfa() (previously declared in /home/rrkhighschool/public_html/application/helpers/category_helper.php:16) in /home/rrkhighschool/public_html/application/views/admin/16_show_only_student_info.php on line 2
+[04-Nov-2019 21:19:37 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/rrkhighschool/public_html/application/views/admin/alumni_insertion.php on line 216
+[22-Nov-2019 10:14:10 Asia/Dhaka] PHP Fatal error:  Cannot redeclare nfa() (previously declared in /home/rrkhighschool/public_html/application/helpers/category_helper.php:16) in /home/rrkhighschool/public_html/application/views/admin/16_show_only_student_info.php on line 2
+[09-Dec-2019 22:19:56 Asia/Dhaka] PHP Fatal error:  Cannot redeclare nfa() (previously declared in /home/rrkhighschool/public_html/application/helpers/category_helper.php:16) in /home/rrkhighschool/public_html/application/views/admin/16_show_only_student_info.php on line 7
+[21-Feb-2020 17:23:12 Asia/Dhaka] PHP Fatal error:  Cannot redeclare nfa() (previously declared in /home/rrkhighschool/public_html/application/helpers/category_helper.php:16) in /home/rrkhighschool/public_html/application/views/admin/16_show_only_student_info.php on line 7
+[29-Apr-2020 10:13:24 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/rrkhighschool/public_html/application/config/config.php on line 27
+[29-Apr-2020 10:16:15 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/rrkhighschool/public_html/application/config/config.php on line 27
+[31-May-2020 01:46:47 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/rrkhighschool/public_html/application/config/config.php on line 27
+[31-May-2020 01:46:48 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/rrkhighschool/public_html/application/config/config.php on line 27
+[31-May-2020 01:46:48 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/rrkhighschool/public_html/application/config/config.php on line 27
+[31-May-2020 01:46:48 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/rrkhighschool/public_html/application/config/config.php on line 27
+[31-May-2020 01:46:51 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/rrkhighschool/public_html/application/config/config.php on line 27
+[18-Jun-2020 11:55:13 Asia/Dhaka] PHP Fatal error:  Cannot redeclare nfa() (previously declared in /home/rrkhighschool/public_html/application/helpers/category_helper.php:16) in /home/rrkhighschool/public_html/application/views/admin/16_show_only_student_info.php on line 7
